@@ -130,7 +130,7 @@ dmypy.json
 
 # Machine Learning specific
 # Model files - excluding large trained models from version control
-*.pkl
+*.
 *.joblib
 *.h5
 *.pb
